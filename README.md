@@ -1,2 +1,7 @@
 # jsstats-issues
-A repo for jsstats.com issues
+Hi there,
+
+This is a place to let me know about any issues with [jsstats.com](https://jsstats.com/) and bring you suggestions about what can be improved
+
+# About jsstats.com
+A tool to help you decide on which package to use
