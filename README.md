@@ -5,3 +5,5 @@ This is a place to let me know about any issues with [jsstats.com](https://jssta
 
 # About jsstats.com
 A tool to help you decide on which package to use
+
+![jsstats.com screenshot](screenshot.png)
