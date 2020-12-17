@@ -1,7 +1,7 @@
-# JsDiff issues
+# Moiva.io issues
 Hi there,
 
-This is a place to let me know about any issues with [jsdiff.dev](https://jsdiff.dev/) and bring you suggestions about what can be improved
+This is a place to let me know about any issues with [Moiva.io](https://moiva.io) and bring your suggestions about what can be improved
 
 
 ![jsdiff.dev screenshot](screenshot.png)
