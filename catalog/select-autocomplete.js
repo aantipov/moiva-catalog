@@ -1,0 +1,18 @@
+const libs =  {
+  name: 'Select Box',
+  items: [
+    // <npm-package-name> or [<npm-package-name>, <seo-alias>]
+    // Seo aliases are used to refer to npm packages in Google Search results. For example, for 'angular/core' Google will show results with a title "Angular: Stats and Trends - Moiva.io".
+    // Aliases are important to help users find the right page
+    // Important: when adding an alias, make sure it's unique - no other packages in this file should use it as their name
+    ['downshift', null, 'react'],
+    ['react-select', 'React Select', 'react'],
+    'select2',
+    ['react-autosuggest', 'React Autosuggest', 'react'],
+    ['react-autocomplete', 'React Autocomplete', 'react'],
+    ['react-virtualized-select', 'React Virtualized Select', 'react'],
+    ['react-dropdown', null, 'react'],
+  ]
+};
+
+module.exports = libs;
