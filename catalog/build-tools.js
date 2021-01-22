@@ -7,8 +7,8 @@ const libs =  {
     // Important: when adding an alias, make sure it's unique - no other packages in this file should use it as their name
     'webpack',
     'rollup',
-    ['@parcel/core', 'Parcel.js'],
-    'parcel',
+    ['@parcel/core', 'Parcel 2'],
+    ['parcel-bundler', 'Parcel 1'],
     'snowpack',
     'esbuild',
   ]

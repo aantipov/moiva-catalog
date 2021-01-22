@@ -7,7 +7,7 @@ const libs = {
     // Important: when adding an alias, make sure it's unique - no other packages in this file should use it as their name
     'react',
     'vue' ,
-    ['@angular/core', 'angular'],
+    ['@angular/core', 'Angular'],
     'svelte',
     ['ember-source', 'Ember'],
     'alpinejs',
@@ -18,7 +18,8 @@ const libs = {
     ['angular', 'AngularJS'],
     'backbone.marionette',
     'knockout',
-    ['solid-js', 'solid'],
+    ['solid-js', 'Solid'],
+    'mithril',
   ]
 };
 
