@@ -44,6 +44,9 @@ const libs =  {
     'uuid',
     'victory',
     'yargs',
+    ['postcss', 'PostCSS'],
+    ['create-react-app', 'Create React App'],
+    'react-router-dom',
   ]
 };
 
