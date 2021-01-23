@@ -11,7 +11,8 @@ const libs =  {
     'primevue',
     ['vue-material', 'Vue Material'],
     ['element-ui', 'Element UI'],
-    ['iview', 'iView']
+    ['iview', 'iView'],
+    ['ant-design-vue', 'Ant Design Vue'],
   ]
 };
 
