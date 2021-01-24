@@ -20,6 +20,9 @@ const libs = {
     'knockout',
     ['solid-js', 'Solid'],
     'mithril',
+    ['aurelia-framework', 'Aurelia'],
+    'stimulus',
+    'marko',
   ]
 };
 

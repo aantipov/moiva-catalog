@@ -11,6 +11,7 @@ const libs =  {
     ['semantic-ui', 'Semantic UI'],
     ['@chakra-ui/react', 'Chakra UI'],
     'reactstrap',
+    ['evergreen-ui', 'Evergreen'],
   ]
 };
 

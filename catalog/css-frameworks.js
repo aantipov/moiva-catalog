@@ -14,6 +14,7 @@ const libs =  {
     ['foundation-sites', 'Foundation'],
     ['material-design-lite', 'Material Design Lite'],
     ['material-components-web', 'Material Components for the web'],
+    'spectre.css',
   ]
 };
 
