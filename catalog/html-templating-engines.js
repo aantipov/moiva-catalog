@@ -10,7 +10,6 @@ const libs =  {
     'mustache',
     'pug',
     'nunjucks',
-    'marko',
     'blueimp-tmpl',
     'dot',
     'xtemplate',

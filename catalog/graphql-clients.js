@@ -12,7 +12,7 @@ const libs =  {
     ['vue-apollo', 'Vue Apollo', 'vue'],
     ['svelte-apollo', null, 'svelte'],
     ['ember-apollo-client', null, 'ember'],
-    ['apollo-angular', null, 'Apollo Angular'],
+    ['apollo-angular', 'Apollo Angular', 'angular'],
   ]
 };
 
