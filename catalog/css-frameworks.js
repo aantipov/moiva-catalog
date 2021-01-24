@@ -10,6 +10,11 @@ const libs =  {
     'tailwindcss',
     'tachyons',
     'materialize-css',
+    ['html5-boilerplate', 'HTML5 Boilerplate'],
+    ['foundation-sites', 'Foundation'],
+    ['material-design-lite', 'Material Design Lite'],
+    ['material-components-web', 'Material Components for the web'],
+    'spectre.css',
   ]
 };
 
