@@ -12,16 +12,8 @@ const libs =  {
     [ 'materialize-css', 'Dogfalo/materialize', 'MaterializeCSS' ],
     [ 'html5-boilerplate', 'h5bp/html5-boilerplate', 'HTML5 Boilerplate' ],
     [ 'foundation-sites', 'foundation/foundation-sites', 'Foundation' ],
-    [
-      'material-design-lite',
-      'google/material-design-lite',
-      'Material Design Lite'
-    ],
-    [
-      'material-components-web',
-      'material-components/material-components-web',
-      'Material Components for the web'
-    ],
+    [ 'material-design-lite', 'google/material-design-lite', 'Material Design Lite' ],
+    [ 'material-components-web', 'material-components/material-components-web', 'Material Components for the web' ],
     [ 'spectre.css', 'picturepan2/spectre', 'Spectre.css' ],
   ]
 };

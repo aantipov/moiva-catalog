@@ -6,12 +6,7 @@ const libs =  {
     // Aliases are important to help users find the right page
     // Important: when adding an alias, make sure it's unique - no other packages in this file should use it as their name
     [ 'styled-jsx', 'vercel/styled-jsx', null, 'react' ],
-    [
-      'styled-components',
-      'styled-components/styled-components',
-      null,
-      'react'
-    ],
+    [ 'styled-components', 'styled-components/styled-components', null, 'react' ],
     [ 'radium', 'formidablelabs/radium', null, 'react' ],
     [ '@linaria/core', 'callstack/linaria', 'Linaria', 'react' ],
     [ 'jss', 'cssinjs/jss', 'JSS', null ],
