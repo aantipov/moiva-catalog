@@ -5,12 +5,11 @@ const libs =  {
     // Seo aliases are used to refer to npm packages in Google Search results. For example, for 'angular/core' Google will show results with a title "Angular: Stats and Trends - Moiva.io".
     // Aliases are important to help users find the right page
     // Important: when adding an alias, make sure it's unique - no other packages in this file should use it as their name
-    'webpack',
-    'rollup',
-    ['@parcel/core', 'Parcel 2'],
-    ['parcel-bundler', 'Parcel 1'],
-    'snowpack',
-    'esbuild',
+    [ 'webpack', 'webpack/webpack', null ],
+    [ 'rollup', 'rollup/rollup', null ],
+    [ '@parcel/core', 'parcel-bundler/parcel', 'Parcel' ],
+    [ 'snowpack', 'snowpackjs/snowpack', null ],
+    [ 'esbuild', 'evanw/esbuild', null ],
   ]
 };
 
