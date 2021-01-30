@@ -6,13 +6,12 @@ const libs =  {
     // Aliases are important to help users find the right page
     // Important: when adding an alias, make sure it's unique - no other packages in this file should use it as their name
   // GraphQLSupport
-    ['relay-runtime', 'Relay', 'react'],
-    ['@apollo/client', 'Apollo Client', 'react'],
-    ['apollo-client', null, 'react'],
-    ['vue-apollo', 'Vue Apollo', 'vue'],
-    ['svelte-apollo', null, 'svelte'],
-    ['ember-apollo-client', null, 'ember'],
-    ['apollo-angular', 'Apollo Angular', 'angular'],
+    [ 'relay-runtime', 'facebook/relay', 'Relay', 'react' ],
+    [ '@apollo/client', 'apollographql/apollo-client', 'Apollo Client', 'react' ],
+    [ 'vue-apollo', 'Akryum/vue-apollo', 'Vue Apollo', 'vue' ],
+    [ 'svelte-apollo', 'timhall/svelte-apollo', null, 'svelte' ],
+    [ 'ember-apollo-client', 'ember-graphql/ember-apollo-client', null, 'ember' ],
+    [ 'apollo-angular', 'kamilkisiela/apollo-angular', 'Apollo Angular', 'angular' ],
   ]
 };
 
