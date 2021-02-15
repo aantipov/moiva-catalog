@@ -10,6 +10,6 @@ This repository is used by Moiva.io
 - to know if a repository has a related npm package as its core artifact so that Moiva can show relevant charts, for example, Npm Downloads or Npm releases (in case a user searches for a Github repository, not for an Npm package).
 
 ## Structure
-The catalog is a collection of Libraries (you can learn more about the Library concept in the [the Moiva's readme](https://github.com/aantipov/moiva)).
+The catalog is a collection of Libraries (you can learn more about the Library concept in the [Moiva's readme](https://github.com/aantipov/moiva)).
 
 Libraries are grouped into categories - one file per category.
