@@ -1,7 +1,13 @@
-# Moiva.io Catalog
-Hi there,
+# [Moiva.io](https://moiva.io/) Catalog
 
-This is a place to let me know about any issues with [Moiva.io](https://moiva.io) and bring your suggestions about what can be improved
+## The purpose
+This repository is used by Moiva.io 
+- to suggest software alternatives to users
+- to generate the Moiva's sitemap with possible comparisons (to help developers find the tool they deseprately need)
 
+## The structure
+The catalog is a collection of Libraries.
 
-![jsdiff.dev screenshot](screenshot.png)
+You can learn more about the Library concept in the [the Moiva's readme](https://github.com/aantipov/moiva).
+
+Libraries are grouped into categories - one file per category.
