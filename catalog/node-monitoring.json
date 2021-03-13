@@ -1,0 +1,9 @@
+{
+  "name": "Node Monitoring",
+  "items": [
+    { "repo": "siimon/prom-client", "npm": "prom-client", "isNpmCoreArtifact": true, "framework": null, "alias": "Prometheus client" },
+    { "repo": "RafalWilinski/express-status-monitor", "npm": "express-status-monitor", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "nearform/node-clinic", "npm": "clinic", "isNpmCoreArtifact": true, "framework": null, "alias": "Clinic.js" },
+    { "repo": "RuntimeTools/appmetrics-dash", "npm": "appmetrics-dash", "isNpmCoreArtifact": true, "framework": null, "alias": null }
+  ]
+}

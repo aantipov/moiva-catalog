@@ -1,0 +1,8 @@
+{
+  "name": "Object Schema Validation",
+  "items": [
+    { "repo": "sideway/joi", "npm": "joi", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "ajv-validator/ajv", "npm": "ajv", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "jquense/yup", "npm": "yup", "isNpmCoreArtifact": true, "framework": null, "alias": null }
+  ]
+}

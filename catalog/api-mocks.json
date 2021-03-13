@@ -1,0 +1,10 @@
+{
+  "name": "Api Mocks",
+  "items": [
+    { "repo": "mswjs/msw", "npm": "msw", "isNpmCoreArtifact": true, "framework": null, "alias": "MSW" },
+    { "repo": "bbyars/mountebank", "npm": "mountebank", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "typicode/json-server", "npm": "json-server", "isNpmCoreArtifact": true, "framework": null, "alias": "JSON Server" },
+    { "repo": "Hagith/wiremock-standalone", "npm": "wiremock-standalone", "isNpmCoreArtifact": true, "framework": null, "alias": "WireMock" },
+    { "repo": "miragejs/miragejs", "npm": "miragejs", "isNpmCoreArtifact": true, "framework": null, "alias": "Mirage" }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Web Sockets",
+  "items": [
+    { "repo": "socketio/socket.io", "npm": "socket.io", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "websockets/ws", "npm": "ws", "isNpmCoreArtifact": true, "framework": null, "alias": null }
+  ]
+}

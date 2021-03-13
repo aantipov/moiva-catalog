@@ -1,0 +1,11 @@
+{
+  "name": "NodeJS Logging",
+  "items": [
+    { "repo": "log4js-node/log4js-node", "npm": "log4js", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "pinojs/pino", "npm": "pino", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "winstonjs/winston", "npm": "winston", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "expressjs/morgan", "npm": "morgan", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "pimterry/loglevel", "npm": "loglevel", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "trentm/node-bunyan", "npm": "bunyan", "isNpmCoreArtifact": true, "framework": null, "alias": "Bunyan" }
+  ]
+}

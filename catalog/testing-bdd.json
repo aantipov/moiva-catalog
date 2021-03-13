@@ -1,0 +1,8 @@
+{
+  "name": "Testing-BDD-BehaviourDrivenDevelopment",
+  "items": [
+    { "repo": "cucumber/cucumber-js", "npm": "@cucumber/cucumber", "isNpmCoreArtifact": true, "framework": null, "alias": "Cucumber.js" },
+    { "repo": "iensu/mocha-cakes-2", "npm": "mocha-cakes-2", "isNpmCoreArtifact": true, "framework": null, "alias": "Mocha Cakes 2" },
+    { "repo": "dotnetprofessional/LiveDoc", "npm": "livedoc-mocha", "isNpmCoreArtifact": true, "framework": null, "alias": "LiveDoc" }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "NodeJS Frameworks",
+  "items": [
+    { "repo": "expressjs/express", "npm": "express", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "nestjs/nest", "npm": "@nestjs/core", "isNpmCoreArtifact": true, "framework": null, "alias": "NestJS" },
+    { "repo": "koajs/koa", "npm": "koa", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "fastify/fastify", "npm": "fastify", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "hapijs/hapi", "npm": "@hapi/hapi", "isNpmCoreArtifact": true, "framework": null, "alias": "Hapi" },
+    { "repo": "balderdashy/sails", "npm": "sails", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "restify/node-restify", "npm": "restify", "isNpmCoreArtifact": true, "framework": null, "alias": "Restify" },
+    { "repo": "feathersjs/feathers", "npm": "@feathersjs/feathers", "isNpmCoreArtifact": true, "framework": null, "alias": "Feathers" },
+    { "repo": "strongloop/loopback", "npm": "loopback", "isNpmCoreArtifact": true, "framework": null, "alias": "LoopBack 3" },
+    { "repo": "strongloop/loopback-next", "npm": "@loopback/core", "isNpmCoreArtifact": true, "framework": null, "alias": "LoopBack 4" }
+  ]
+}

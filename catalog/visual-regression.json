@@ -1,0 +1,8 @@
+{
+  "name": "Visual Regression",
+  "items": [
+    { "repo": "garris/backstopjs", "npm": "backstopjs", "isNpmCoreArtifact": true, "framework": null, "alias": "BackstopJS" },
+    { "repo": "oblador/loki", "npm": "loki", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "gemini-testing/gemini", "npm": "gemini", "isNpmCoreArtifact": true, "framework": null, "alias": null }
+  ]
+}

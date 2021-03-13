@@ -1,0 +1,15 @@
+{
+  "name": "CSS Frameworks",
+  "items": [
+    { "repo": "twbs/bootstrap", "npm": "bootstrap", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "jgthms/bulma", "npm": "bulma", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "tailwindlabs/tailwindcss", "npm": "tailwindcss", "isNpmCoreArtifact": true, "framework": null, "alias": "Tailwind CSS" },
+    { "repo": "tachyons-css/tachyons", "npm": "tachyons", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "Dogfalo/materialize", "npm": "materialize-css", "isNpmCoreArtifact": true, "framework": null, "alias": "MaterializeCSS" },
+    { "repo": "h5bp/html5-boilerplate", "npm": "html5-boilerplate", "isNpmCoreArtifact": true, "framework": null, "alias": "HTML5 Boilerplate" },
+    { "repo": "foundation/foundation-sites", "npm": "foundation-sites", "isNpmCoreArtifact": true, "framework": null, "alias": "Foundation" },
+    { "repo": "google/material-design-lite", "npm": "material-design-lite", "isNpmCoreArtifact": true, "framework": null, "alias": "Material Design Lite" },
+    { "repo": "material-components/material-components-web", "npm": "material-components-web", "isNpmCoreArtifact": true, "framework": null, "alias": "Material Components for the web" },
+    { "repo": "picturepan2/spectre", "npm": "spectre.css", "isNpmCoreArtifact": true, "framework": null, "alias": "Spectre.css" }
+  ]
+}
