@@ -1,0 +1,25 @@
+{
+  "name": "moiva-catalog",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "null",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aantipov/moiva-catalog.git"
+  },
+  "author": "Alexey Antipov",
+  "bugs": {
+    "url": "https://github.com/aantipov/moiva-catalog/issues"
+  },
+  "homepage": "https://github.com/aantipov/moiva-catalog#readme",
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  },
+  "prettier": {
+    "printWidth": 200
+  }
+}

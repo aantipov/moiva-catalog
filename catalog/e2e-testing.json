@@ -1,0 +1,17 @@
+{
+  "name": "e2e testing",
+  "items": [
+    { "repo": "puppeteer/puppeteer", "npm": "puppeteer", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "cypress-io/cypress", "npm": "cypress", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "Microsoft/playwright", "npm": "playwright", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "SeleniumHQ/selenium", "npm": "selenium-webdriver", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "webdriverio/webdriverio", "npm": "webdriverio", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "DevExpress/testcafe", "npm": "testcafe", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "nightwatchjs/nightwatch", "npm": "nightwatch", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "getgauge/taiko", "npm": "taiko", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "segmentio/nightmare", "npm": "nightmare", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "casperjs/casperjs", "npm": "casperjs", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "laurentj/slimerjs", "npm": "slimerjs", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "assaf/zombie", "npm": "zombie", "isNpmCoreArtifact": true, "framework": null, "alias": null }
+  ]
+}

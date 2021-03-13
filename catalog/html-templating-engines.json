@@ -1,0 +1,15 @@
+{
+  "name": "HTML Templating Engines",
+  "items": [
+    { "repo": "mde/ejs", "npm": "ejs", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "wycats/handlebars.js", "npm": "handlebars", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "janl/mustache.js", "npm": "mustache", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "pugjs/pug", "npm": "pug", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "mozilla/nunjucks", "npm": "nunjucks", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "blueimp/JavaScript-Templates", "npm": "blueimp-tmpl", "isNpmCoreArtifact": true, "framework": null, "alias": "blueimp/JavaScript-Templates" },
+    { "repo": "olado/doT", "npm": "dot", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "xtemplate/xtemplate", "npm": "xtemplate", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "linkedin/dustjs", "npm": "dustjs-linkedin", "isNpmCoreArtifact": true, "framework": null, "alias": "Dust.js" },
+    { "repo": "Guseyn/EHTML", "npm": "ehtml", "isNpmCoreArtifact": true, "framework": null, "alias": null }
+  ]
+}

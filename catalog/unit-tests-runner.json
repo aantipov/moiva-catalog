@@ -1,0 +1,7 @@
+{
+  "name": "Unit Tests Runner",
+  "items": [
+    { "repo": "facebook/jest", "npm": "jest", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "avajs/ava", "npm": "ava", "isNpmCoreArtifact": true, "framework": null, "alias": null }
+  ]
+}

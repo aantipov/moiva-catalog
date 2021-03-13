@@ -1,0 +1,8 @@
+{
+  "name": "AWS Lambda frameworks",
+  "items": [
+    { "repo": "middyjs/middy", "npm": "@middy/core", "isNpmCoreArtifact": true, "framework": null, "alias": "Middy" },
+    { "repo": "laconiajs/laconia", "npm": "@laconia/core", "isNpmCoreArtifact": true, "framework": null, "alias": "Laconia" },
+    { "repo": "vandium-io/vandium-node", "npm": "vandium", "isNpmCoreArtifact": true, "framework": null, "alias": null }
+  ]
+}

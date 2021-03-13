@@ -1,0 +1,9 @@
+{
+  "name": "React Forms",
+  "items": [
+    { "repo": "formium/formik", "npm": "formik", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "react-hook-form/react-hook-form", "npm": "react-hook-form", "isNpmCoreArtifact": true, "framework": null, "alias": "React Hook Form" },
+    { "repo": "redux-form/redux-form", "npm": "redux-form", "isNpmCoreArtifact": true, "framework": null, "alias": "Redux Form" },
+    { "repo": "final-form/final-form", "npm": "final-form", "isNpmCoreArtifact": true, "framework": null, "alias": "React Final Form" }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Web Components",
+  "items": [
+    { "repo": "ionic-team/stencil", "npm": "@stencil/core", "isNpmCoreArtifact": true, "framework": null, "alias": "Stencil" },
+    { "repo": "Polymer/lit-element", "npm": "lit-element", "isNpmCoreArtifact": true, "framework": null, "alias": "LitElement" }
+  ]
+}
