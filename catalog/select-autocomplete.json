@@ -1,12 +1,12 @@
 {
   "name": "Select Box",
   "items": [
-    { "repo": "downshift-js/downshift", "npm": "downshift", "isNpmCoreArtifact": true, "framework": "react", "alias": null },
+    { "repo": "downshift-js/downshift", "npm": "downshift", "isNpmCoreArtifact": true, "framework": "react" },
     { "repo": "JedWatson/react-select", "npm": "react-select", "isNpmCoreArtifact": true, "framework": "react", "alias": "React Select" },
-    { "repo": "select2/select2", "npm": "select2", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "select2/select2", "npm": "select2", "isNpmCoreArtifact": true },
     { "repo": "moroshko/react-autosuggest", "npm": "react-autosuggest", "isNpmCoreArtifact": true, "framework": "react", "alias": "React Autosuggest" },
     { "repo": "reactjs/react-autocomplete", "npm": "react-autocomplete", "isNpmCoreArtifact": true, "framework": "react", "alias": "React Autocomplete" },
     { "repo": "bvaughn/react-virtualized-select", "npm": "react-virtualized-select", "isNpmCoreArtifact": true, "framework": "react", "alias": "React Virtualized Select" },
-    { "repo": "fraserxu/react-dropdown", "npm": "react-dropdown", "isNpmCoreArtifact": true, "framework": "react", "alias": null }
+    { "repo": "fraserxu/react-dropdown", "npm": "react-dropdown", "isNpmCoreArtifact": true, "framework": "react" }
   ]
 }

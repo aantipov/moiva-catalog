@@ -4,8 +4,8 @@
     { "repo": "facebook/relay", "npm": "relay-runtime", "isNpmCoreArtifact": true, "framework": "react", "alias": "Relay" },
     { "repo": "apollographql/apollo-client", "npm": "@apollo/client", "isNpmCoreArtifact": true, "framework": "react", "alias": "Apollo Client" },
     { "repo": "Akryum/vue-apollo", "npm": "vue-apollo", "isNpmCoreArtifact": true, "framework": "vue", "alias": "Vue Apollo" },
-    { "repo": "timhall/svelte-apollo", "npm": "svelte-apollo", "isNpmCoreArtifact": true, "framework": "svelte", "alias": null },
-    { "repo": "ember-graphql/ember-apollo-client", "npm": "ember-apollo-client", "isNpmCoreArtifact": true, "framework": "ember", "alias": null },
+    { "repo": "timhall/svelte-apollo", "npm": "svelte-apollo", "isNpmCoreArtifact": true, "framework": "svelte" },
+    { "repo": "ember-graphql/ember-apollo-client", "npm": "ember-apollo-client", "isNpmCoreArtifact": true, "framework": "ember" },
     { "repo": "kamilkisiela/apollo-angular", "npm": "apollo-angular", "isNpmCoreArtifact": true, "framework": "angular", "alias": "Apollo Angular" }
   ]
 }

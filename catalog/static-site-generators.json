@@ -1,17 +1,17 @@
 {
   "name": "Static Site Generators / JAMStack",
   "items": [
-    { "repo": "gatsbyjs/gatsby", "npm": "gatsby", "isNpmCoreArtifact": true, "framework": "react", "alias": null },
+    { "repo": "gatsbyjs/gatsby", "npm": "gatsby", "isNpmCoreArtifact": true, "framework": "react" },
     { "repo": "vercel/next.js", "npm": "next", "isNpmCoreArtifact": true, "framework": "react", "alias": "Next.js" },
     { "repo": "nuxt/nuxt.js", "npm": "nuxt", "isNpmCoreArtifact": true, "framework": "vue", "alias": "Nuxt.js" },
-    { "repo": "sveltejs/sapper", "npm": "sapper", "isNpmCoreArtifact": true, "framework": "svelte", "alias": null },
-    { "repo": "11ty/eleventy", "npm": "@11ty/eleventy", "isNpmCoreArtifact": true, "framework": null, "alias": "11ty" },
-    { "repo": "hexojs/hexo", "npm": "hexo", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "sveltejs/sapper", "npm": "sapper", "isNpmCoreArtifact": true, "framework": "svelte" },
+    { "repo": "11ty/eleventy", "npm": "@11ty/eleventy", "isNpmCoreArtifact": true, "alias": "11ty" },
+    { "repo": "hexojs/hexo", "npm": "hexo", "isNpmCoreArtifact": true },
     { "repo": "facebook/docusaurus", "npm": "@docusaurus/core", "isNpmCoreArtifact": true, "framework": "react", "alias": "Docusaurus" },
     { "repo": "vuejs/vuepress", "npm": "vuepress", "isNpmCoreArtifact": true, "framework": "vue", "alias": "VuePress" },
-    { "repo": "docsifyjs/docsify", "npm": "docsify", "isNpmCoreArtifact": true, "framework": null, "alias": null },
+    { "repo": "docsifyjs/docsify", "npm": "docsify", "isNpmCoreArtifact": true },
     { "repo": "umijs/umi", "npm": "umi", "isNpmCoreArtifact": true, "framework": "react", "alias": "UmiJS" },
     { "repo": "react-static/react-static", "npm": "react-static", "isNpmCoreArtifact": true, "framework": "react", "alias": "React Static" },
-    { "repo": "gridsome/gridsome", "npm": "gridsome", "isNpmCoreArtifact": true, "framework": "vue", "alias": null }
+    { "repo": "gridsome/gridsome", "npm": "gridsome", "isNpmCoreArtifact": true, "framework": "vue" }
   ]
 }

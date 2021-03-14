@@ -1,12 +1,12 @@
 {
   "name": "Utilities",
   "items": [
-    { "repo": "lodash/lodash", "npm": "lodash", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "ramda/ramda", "npm": "ramda", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "jashkenas/underscore", "npm": "underscore", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "selfrefactor/rambda", "npm": "rambda", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "mout/mout", "npm": "mout", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "andrewplummer/Sugar", "npm": "sugar", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "dtao/lazy.js", "npm": "lazy.js", "isNpmCoreArtifact": true, "framework": null, "alias": null }
+    { "repo": "lodash/lodash", "npm": "lodash", "isNpmCoreArtifact": true },
+    { "repo": "ramda/ramda", "npm": "ramda", "isNpmCoreArtifact": true },
+    { "repo": "jashkenas/underscore", "npm": "underscore", "isNpmCoreArtifact": true },
+    { "repo": "selfrefactor/rambda", "npm": "rambda", "isNpmCoreArtifact": true },
+    { "repo": "mout/mout", "npm": "mout", "isNpmCoreArtifact": true },
+    { "repo": "andrewplummer/Sugar", "npm": "sugar", "isNpmCoreArtifact": true },
+    { "repo": "dtao/lazy.js", "npm": "lazy.js", "isNpmCoreArtifact": true }
   ]
 }

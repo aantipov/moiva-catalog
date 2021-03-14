@@ -1,10 +1,10 @@
 {
   "name": "State Management",
   "items": [
-    { "repo": "reduxjs/redux", "npm": "redux", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "mobxjs/mobx", "npm": "mobx", "isNpmCoreArtifact": true, "framework": null, "alias": "MobX" },
-    { "repo": "reactivex/rxjs", "npm": "rxjs", "isNpmCoreArtifact": true, "framework": null, "alias": "RxJS" },
-    { "repo": "facebookexperimental/recoil", "npm": "recoil", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "vuejs/vuex", "npm": "vuex", "isNpmCoreArtifact": true, "framework": "vue", "alias": null }
+    { "repo": "reduxjs/redux", "npm": "redux", "isNpmCoreArtifact": true },
+    { "repo": "mobxjs/mobx", "npm": "mobx", "isNpmCoreArtifact": true, "alias": "MobX" },
+    { "repo": "reactivex/rxjs", "npm": "rxjs", "isNpmCoreArtifact": true, "alias": "RxJS" },
+    { "repo": "facebookexperimental/recoil", "npm": "recoil", "isNpmCoreArtifact": true },
+    { "repo": "vuejs/vuex", "npm": "vuex", "isNpmCoreArtifact": true, "framework": "vue" }
   ]
 }

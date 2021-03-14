@@ -1,7 +1,7 @@
 {
   "name": "ui dev environment",
   "items": [
-    { "repo": "storybookjs/storybook", "npm": "@storybook/core", "isNpmCoreArtifact": true, "framework": null, "alias": "Storybook" },
+    { "repo": "storybookjs/storybook", "npm": "@storybook/core", "isNpmCoreArtifact": true, "alias": "Storybook" },
     { "repo": "styleguidist/react-styleguidist", "npm": "react-styleguidist", "isNpmCoreArtifact": true, "framework": "react", "alias": "React Styleguidist" }
   ]
 }

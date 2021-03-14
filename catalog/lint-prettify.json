@@ -1,10 +1,10 @@
 {
   "name": "Lint Prettify",
   "items": [
-    { "repo": "eslint/eslint", "npm": "eslint", "isNpmCoreArtifact": true, "framework": null, "alias": "ESLint" },
-    { "repo": "palantir/tslint", "npm": "tslint", "isNpmCoreArtifact": true, "framework": null, "alias": "TSLint" },
-    { "repo": "prettier/prettier", "npm": "prettier", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "jshint/jshint", "npm": "jshint", "isNpmCoreArtifact": true, "framework": null, "alias": "JSHint" },
-    { "repo": "beautify-web/js-beautify", "npm": "js-beautify", "isNpmCoreArtifact": true, "framework": null, "alias": "JS Beautifier" }
+    { "repo": "eslint/eslint", "npm": "eslint", "isNpmCoreArtifact": true, "alias": "ESLint" },
+    { "repo": "palantir/tslint", "npm": "tslint", "isNpmCoreArtifact": true, "alias": "TSLint" },
+    { "repo": "prettier/prettier", "npm": "prettier", "isNpmCoreArtifact": true },
+    { "repo": "jshint/jshint", "npm": "jshint", "isNpmCoreArtifact": true, "alias": "JSHint" },
+    { "repo": "beautify-web/js-beautify", "npm": "js-beautify", "isNpmCoreArtifact": true, "alias": "JS Beautifier" }
   ]
 }
