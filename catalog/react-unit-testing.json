@@ -1,7 +1,7 @@
 {
   "name": "React Unit Testing",
   "items": [
-    { "repo": "airbnb/enzyme", "npm": "enzyme", "isNpmCoreArtifact": true },
+    { "repo": "enzymejs/enzyme", "npm": "enzyme", "isNpmCoreArtifact": true },
     { "repo": "testing-library/react-testing-library", "npm": "@testing-library/react", "isNpmCoreArtifact": true, "alias": "React Testing Library" }
   ]
 }
