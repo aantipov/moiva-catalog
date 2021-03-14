@@ -1,11 +1,11 @@
 {
   "name": "React Dates",
   "items": [
-    { "repo": "Hacker0x01/react-datepicker", "npm": "react-datepicker", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "wojtekmaj/react-date-picker", "npm": "react-date-picker", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "airbnb/react-dates", "npm": "react-dates", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "arqex/react-datetime", "npm": "react-datetime", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "gpbl/react-day-picker", "npm": "react-day-picker", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "wojtekmaj/react-calendar", "npm": "react-calendar", "isNpmCoreArtifact": true, "framework": null, "alias": null }
+    { "repo": "Hacker0x01/react-datepicker", "npm": "react-datepicker", "isNpmCoreArtifact": true },
+    { "repo": "wojtekmaj/react-date-picker", "npm": "react-date-picker", "isNpmCoreArtifact": true },
+    { "repo": "airbnb/react-dates", "npm": "react-dates", "isNpmCoreArtifact": true },
+    { "repo": "arqex/react-datetime", "npm": "react-datetime", "isNpmCoreArtifact": true },
+    { "repo": "gpbl/react-day-picker", "npm": "react-day-picker", "isNpmCoreArtifact": true },
+    { "repo": "wojtekmaj/react-calendar", "npm": "react-calendar", "isNpmCoreArtifact": true }
   ]
 }

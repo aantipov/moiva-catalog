@@ -1,7 +1,7 @@
 {
   "name": "Runtime Types Checks",
   "items": [
-    { "repo": "gcanti/io-ts", "npm": "io-ts", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "pelotom/runtypes", "npm": "runtypes", "isNpmCoreArtifact": true, "framework": null, "alias": null }
+    { "repo": "gcanti/io-ts", "npm": "io-ts", "isNpmCoreArtifact": true },
+    { "repo": "pelotom/runtypes", "npm": "runtypes", "isNpmCoreArtifact": true }
   ]
 }

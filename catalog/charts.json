@@ -1,18 +1,18 @@
 {
   "name": "Charts",
   "items": [
-    { "repo": "chartjs/Chart.js", "npm": "chart.js", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "d3/d3", "npm": "d3", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "plotly/plotly.js", "npm": "plotly.js", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "highcharts/highcharts", "npm": "highcharts", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "recharts/recharts", "npm": "recharts", "isNpmCoreArtifact": true, "framework": null, "alias": "Apache ECharts" },
-    { "repo": "apache/incubator-echarts", "npm": "echarts", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "amcharts/amcharts4", "npm": "@amcharts/amcharts4", "isNpmCoreArtifact": true, "framework": null, "alias": "amCharts 4" },
-    { "repo": "apexcharts/apexcharts.js", "npm": "apexcharts", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "gionkunz/chartist-js", "npm": "chartist", "isNpmCoreArtifact": true, "framework": null, "alias": "Chartist.js" },
-    { "repo": "almende/vis", "npm": "vis", "isNpmCoreArtifact": true, "framework": null, "alias": "Vis.js" },
-    { "repo": "novus/nvd3", "npm": "nvd3", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "amcharts/amcharts3", "npm": "amcharts3", "isNpmCoreArtifact": true, "framework": null, "alias": "amCharts 3" },
-    { "repo": "benpickles/peity", "npm": "peity", "isNpmCoreArtifact": true, "framework": null, "alias": null }
+    { "repo": "chartjs/Chart.js", "npm": "chart.js", "isNpmCoreArtifact": true },
+    { "repo": "d3/d3", "npm": "d3", "isNpmCoreArtifact": true },
+    { "repo": "plotly/plotly.js", "npm": "plotly.js", "isNpmCoreArtifact": true },
+    { "repo": "highcharts/highcharts", "npm": "highcharts", "isNpmCoreArtifact": true },
+    { "repo": "recharts/recharts", "npm": "recharts", "isNpmCoreArtifact": true, "alias": "Apache ECharts" },
+    { "repo": "apache/incubator-echarts", "npm": "echarts", "isNpmCoreArtifact": true },
+    { "repo": "amcharts/amcharts4", "npm": "@amcharts/amcharts4", "isNpmCoreArtifact": true, "alias": "amCharts 4" },
+    { "repo": "apexcharts/apexcharts.js", "npm": "apexcharts", "isNpmCoreArtifact": true },
+    { "repo": "gionkunz/chartist-js", "npm": "chartist", "isNpmCoreArtifact": true, "alias": "Chartist.js" },
+    { "repo": "almende/vis", "npm": "vis", "isNpmCoreArtifact": true, "alias": "Vis.js" },
+    { "repo": "novus/nvd3", "npm": "nvd3", "isNpmCoreArtifact": true },
+    { "repo": "amcharts/amcharts3", "npm": "amcharts3", "isNpmCoreArtifact": true, "alias": "amCharts 3" },
+    { "repo": "benpickles/peity", "npm": "peity", "isNpmCoreArtifact": true }
   ]
 }

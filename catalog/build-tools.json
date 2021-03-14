@@ -1,10 +1,10 @@
 {
   "name": "Build Tools",
   "items": [
-    { "repo": "webpack/webpack", "npm": "webpack", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "rollup/rollup", "npm": "rollup", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "parcel-bundler/parcel", "npm": "@parcel/core", "isNpmCoreArtifact": true, "framework": null, "alias": "Parcel" },
-    { "repo": "snowpackjs/snowpack", "npm": "snowpack", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "evanw/esbuild", "npm": "esbuild", "isNpmCoreArtifact": true, "framework": null, "alias": null }
+    { "repo": "webpack/webpack", "npm": "webpack", "isNpmCoreArtifact": true },
+    { "repo": "rollup/rollup", "npm": "rollup", "isNpmCoreArtifact": true },
+    { "repo": "parcel-bundler/parcel", "npm": "@parcel/core", "isNpmCoreArtifact": true, "alias": "Parcel" },
+    { "repo": "snowpackjs/snowpack", "npm": "snowpack", "isNpmCoreArtifact": true },
+    { "repo": "evanw/esbuild", "npm": "esbuild", "isNpmCoreArtifact": true }
   ]
 }

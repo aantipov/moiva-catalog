@@ -1,7 +1,7 @@
 {
   "name": "3D",
   "items": [
-    { "repo": "BabylonJS/Babylon.js", "npm": "babylonjs", "isNpmCoreArtifact": true, "framework": null, "alias": "Babylon.js" },
-    { "repo": "mrdoob/three.js", "npm": "three", "isNpmCoreArtifact": true, "framework": null, "alias": "Three.js" }
+    { "repo": "BabylonJS/Babylon.js", "npm": "babylonjs", "isNpmCoreArtifact": true, "alias": "Babylon.js" },
+    { "repo": "mrdoob/three.js", "npm": "three", "isNpmCoreArtifact": true, "alias": "Three.js" }
   ]
 }

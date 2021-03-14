@@ -1,8 +1,8 @@
 {
   "name": "Node Runners",
   "items": [
-    { "repo": "foreverjs/forever", "npm": "forever", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "Unitech/pm2", "npm": "pm2", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "remy/nodemon", "npm": "nodemon", "isNpmCoreArtifact": true, "framework": null, "alias": null }
+    { "repo": "foreverjs/forever", "npm": "forever", "isNpmCoreArtifact": true },
+    { "repo": "Unitech/pm2", "npm": "pm2", "isNpmCoreArtifact": true },
+    { "repo": "remy/nodemon", "npm": "nodemon", "isNpmCoreArtifact": true }
   ]
 }

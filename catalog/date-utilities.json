@@ -1,13 +1,13 @@
 {
   "name": "Date Utilities",
   "items": [
-    { "repo": "date-fns/date-fns", "npm": "date-fns", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "iamkun/dayjs", "npm": "dayjs", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "moment/luxon", "npm": "luxon", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "moment/moment", "npm": "moment", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "taylorhakes/fecha", "npm": "fecha", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "vercel/ms", "npm": "ms", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "hustcc/timeago.js", "npm": "timeago.js", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "MatthewMueller/date", "npm": "date.js", "isNpmCoreArtifact": true, "framework": null, "alias": null }
+    { "repo": "date-fns/date-fns", "npm": "date-fns", "isNpmCoreArtifact": true },
+    { "repo": "iamkun/dayjs", "npm": "dayjs", "isNpmCoreArtifact": true },
+    { "repo": "moment/luxon", "npm": "luxon", "isNpmCoreArtifact": true },
+    { "repo": "moment/moment", "npm": "moment", "isNpmCoreArtifact": true },
+    { "repo": "taylorhakes/fecha", "npm": "fecha", "isNpmCoreArtifact": true },
+    { "repo": "vercel/ms", "npm": "ms", "isNpmCoreArtifact": true },
+    { "repo": "hustcc/timeago.js", "npm": "timeago.js", "isNpmCoreArtifact": true },
+    { "repo": "MatthewMueller/date", "npm": "date.js", "isNpmCoreArtifact": true }
   ]
 }

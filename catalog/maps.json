@@ -1,7 +1,7 @@
 {
   "name": "Maps",
   "items": [
-    { "repo": "Leaflet/Leaflet", "npm": "leaflet", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "openlayers/openlayers", "npm": "ol", "isNpmCoreArtifact": true, "framework": null, "alias": "OpenLayers" }
+    { "repo": "Leaflet/Leaflet", "npm": "leaflet", "isNpmCoreArtifact": true },
+    { "repo": "openlayers/openlayers", "npm": "ol", "isNpmCoreArtifact": true, "alias": "OpenLayers" }
   ]
 }

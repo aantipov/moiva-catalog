@@ -1,14 +1,14 @@
 {
   "name": "Vue Component Libraries",
   "items": [
-    { "repo": "vuetifyjs/vuetify", "npm": "vuetify", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "quasarframework/quasar", "npm": "quasar", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "bootstrap-vue/bootstrap-vue", "npm": "bootstrap-vue", "isNpmCoreArtifact": true, "framework": null, "alias": "BootstrapVue" },
-    { "repo": "primefaces/primevue", "npm": "primevue", "isNpmCoreArtifact": true, "framework": null, "alias": null },
-    { "repo": "vuematerial/vue-material", "npm": "vue-material", "isNpmCoreArtifact": true, "framework": null, "alias": "Vue Material" },
-    { "repo": "ElemeFE/element", "npm": "element-ui", "isNpmCoreArtifact": true, "framework": null, "alias": "Element UI" },
-    { "repo": "element-plus/element-plus", "npm": "element-plus", "isNpmCoreArtifact": true, "framework": null, "alias": "Element Plus" },
-    { "repo": "iview/iview", "npm": "iview", "isNpmCoreArtifact": true, "framework": null, "alias": "iView" },
-    { "repo": "vueComponent/ant-design-vue", "npm": "ant-design-vue", "isNpmCoreArtifact": true, "framework": null, "alias": "Ant Design Vue" }
+    { "repo": "vuetifyjs/vuetify", "npm": "vuetify", "isNpmCoreArtifact": true },
+    { "repo": "quasarframework/quasar", "npm": "quasar", "isNpmCoreArtifact": true },
+    { "repo": "bootstrap-vue/bootstrap-vue", "npm": "bootstrap-vue", "isNpmCoreArtifact": true, "alias": "BootstrapVue" },
+    { "repo": "primefaces/primevue", "npm": "primevue", "isNpmCoreArtifact": true },
+    { "repo": "vuematerial/vue-material", "npm": "vue-material", "isNpmCoreArtifact": true, "alias": "Vue Material" },
+    { "repo": "ElemeFE/element", "npm": "element-ui", "isNpmCoreArtifact": true, "alias": "Element UI" },
+    { "repo": "element-plus/element-plus", "npm": "element-plus", "isNpmCoreArtifact": true, "alias": "Element Plus" },
+    { "repo": "iview/iview", "npm": "iview", "isNpmCoreArtifact": true, "alias": "iView" },
+    { "repo": "vueComponent/ant-design-vue", "npm": "ant-design-vue", "isNpmCoreArtifact": true, "alias": "Ant Design Vue" }
   ]
 }

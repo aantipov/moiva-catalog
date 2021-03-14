@@ -1,7 +1,7 @@
 {
   "name": "React Document Head Tags",
   "items": [
-    { "repo": "nfl/react-helmet", "npm": "react-helmet", "isNpmCoreArtifact": true, "framework": null, "alias": "React Helmet" },
-    { "repo": "NYTimes/react-helmet-async", "npm": "react-helmet-async", "isNpmCoreArtifact": true, "framework": null, "alias": null }
+    { "repo": "nfl/react-helmet", "npm": "react-helmet", "isNpmCoreArtifact": true, "alias": "React Helmet" },
+    { "repo": "NYTimes/react-helmet-async", "npm": "react-helmet-async", "isNpmCoreArtifact": true }
   ]
 }
