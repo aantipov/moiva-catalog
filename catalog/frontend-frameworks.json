@@ -17,7 +17,7 @@
     { "repo": "ryansolid/solid", "npm": "solid-js", "isNpmCoreArtifact": true, "alias": "Solid" },
     { "repo": "MithrilJS/mithril.js", "npm": "mithril", "isNpmCoreArtifact": true },
     { "repo": "aurelia/framework", "npm": "aurelia-framework", "isNpmCoreArtifact": true, "alias": "Aurelia" },
-    { "repo": "stimulusjs/stimulus", "npm": "stimulus", "isNpmCoreArtifact": true },
+    { "repo": "hotwired/stimulus", "npm": "stimulus", "isNpmCoreArtifact": true },
     { "repo": "marko-js/marko", "npm": "marko", "isNpmCoreArtifact": true }
   ]
 }

@@ -2,7 +2,7 @@
   "name": "HTML Templating Engines",
   "items": [
     { "repo": "mde/ejs", "npm": "ejs", "isNpmCoreArtifact": true },
-    { "repo": "wycats/handlebars.js", "npm": "handlebars", "isNpmCoreArtifact": true },
+    { "repo": "handlebars-lang/handlebars.js", "npm": "handlebars", "isNpmCoreArtifact": true },
     { "repo": "janl/mustache.js", "npm": "mustache", "isNpmCoreArtifact": true },
     { "repo": "pugjs/pug", "npm": "pug", "isNpmCoreArtifact": true },
     { "repo": "mozilla/nunjucks", "npm": "nunjucks", "isNpmCoreArtifact": true },

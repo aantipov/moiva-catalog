@@ -2,6 +2,6 @@
   "name": "Static Types Checking",
   "items": [
     { "repo": "Microsoft/TypeScript", "npm": "typescript", "isNpmCoreArtifact": true },
-    { "repo": "flowtype/flow-bin", "npm": "flow-bin", "isNpmCoreArtifact": true, "alias": "Flow" }
+    { "repo": "facebook/flow", "npm": "flow-bin", "isNpmCoreArtifact": true, "alias": "Flow" }
   ]
 }
