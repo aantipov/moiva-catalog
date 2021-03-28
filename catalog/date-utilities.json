@@ -1,5 +1,5 @@
 {
-  "name": "Date Utilities",
+  "name": "JavaScript Date Utility Libraries",
   "items": [
     { "repo": "date-fns/date-fns", "npm": "date-fns", "isNpmCoreArtifact": true },
     { "repo": "iamkun/dayjs", "npm": "dayjs", "isNpmCoreArtifact": true },

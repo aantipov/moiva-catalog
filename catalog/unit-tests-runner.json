@@ -1,5 +1,5 @@
 {
-  "name": "Unit Tests Runner",
+  "name": "JavaScript Tests Runners",
   "items": [
     { "repo": "facebook/jest", "npm": "jest", "isNpmCoreArtifact": true },
     { "repo": "avajs/ava", "npm": "ava", "isNpmCoreArtifact": true }

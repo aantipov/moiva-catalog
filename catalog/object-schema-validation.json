@@ -1,5 +1,5 @@
 {
-  "name": "Object Schema Validation",
+  "name": "JavaScript Schema Validation Libraries",
   "items": [
     { "repo": "sideway/joi", "npm": "joi", "isNpmCoreArtifact": true },
     { "repo": "ajv-validator/ajv", "npm": "ajv", "isNpmCoreArtifact": true },

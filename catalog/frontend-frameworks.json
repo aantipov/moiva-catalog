@@ -1,5 +1,5 @@
 {
-  "name": "Frontend Frameworks",
+  "name": "JavaScript UI Frameworks and Libraries",
   "items": [
     { "repo": "facebook/react", "npm": "react", "isNpmCoreArtifact": true },
     { "repo": "vuejs/vue", "npm": "vue", "isNpmCoreArtifact": true },

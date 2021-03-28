@@ -1,5 +1,5 @@
 {
-  "name": "Build Tools",
+  "name": "JavaScript Build Tools, Module Bundlers",
   "items": [
     { "repo": "webpack/webpack", "npm": "webpack", "isNpmCoreArtifact": true },
     { "repo": "rollup/rollup", "npm": "rollup", "isNpmCoreArtifact": true },

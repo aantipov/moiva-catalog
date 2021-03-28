@@ -1,5 +1,5 @@
 {
-  "name": "Testing-BDD-BehaviourDrivenDevelopment",
+  "name": "JavaScript BDD Testing tools",
   "items": [
     { "repo": "cucumber/cucumber-js", "npm": "@cucumber/cucumber", "isNpmCoreArtifact": true, "alias": "Cucumber.js" },
     { "repo": "iensu/mocha-cakes-2", "npm": "mocha-cakes-2", "isNpmCoreArtifact": true, "alias": "Mocha Cakes 2" },

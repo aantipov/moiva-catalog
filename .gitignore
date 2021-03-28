@@ -26,3 +26,6 @@ pnpm-debug.log*
 .vercel
 *.vim
 
+gh.js
+repos-list.json
+repos-list-*.json

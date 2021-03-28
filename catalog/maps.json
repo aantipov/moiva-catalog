@@ -1,5 +1,5 @@
 {
-  "name": "Maps",
+  "name": "JavaScript Maps Libraries",
   "items": [
     { "repo": "Leaflet/Leaflet", "npm": "leaflet", "isNpmCoreArtifact": true },
     { "repo": "openlayers/openlayers", "npm": "ol", "isNpmCoreArtifact": true, "alias": "OpenLayers" }

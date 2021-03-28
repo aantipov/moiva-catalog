@@ -1,5 +1,5 @@
 {
-  "name": "Utilities",
+  "name": "JavaScript Utility Libraries",
   "items": [
     { "repo": "lodash/lodash", "npm": "lodash", "isNpmCoreArtifact": true },
     { "repo": "ramda/ramda", "npm": "ramda", "isNpmCoreArtifact": true },

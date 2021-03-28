@@ -1,5 +1,5 @@
 {
-  "name": "Vue Component Libraries",
+  "name": "VueJS Component Libraries",
   "items": [
     { "repo": "vuetifyjs/vuetify", "npm": "vuetify", "isNpmCoreArtifact": true },
     { "repo": "quasarframework/quasar", "npm": "quasar", "isNpmCoreArtifact": true },

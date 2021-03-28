@@ -1,5 +1,5 @@
 {
-  "name": "NodeJS Logging",
+  "name": "Node.js Logging libraries",
   "items": [
     { "repo": "log4js-node/log4js-node", "npm": "log4js", "isNpmCoreArtifact": true },
     { "repo": "pinojs/pino", "npm": "pino", "isNpmCoreArtifact": true },
