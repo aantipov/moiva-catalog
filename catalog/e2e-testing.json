@@ -1,5 +1,5 @@
 {
-  "name": "e2e testing",
+  "name": "JS End-to-End Testing and Browser Automation Libraries",
   "items": [
     { "repo": "puppeteer/puppeteer", "npm": "puppeteer", "isNpmCoreArtifact": true },
     { "repo": "cypress-io/cypress", "npm": "cypress", "isNpmCoreArtifact": true },

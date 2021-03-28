@@ -1,5 +1,5 @@
 {
-  "name": "Api Mocks",
+  "name": "JavaScript Mocking Libraries, test servers",
   "items": [
     { "repo": "mswjs/msw", "npm": "msw", "isNpmCoreArtifact": true, "alias": "MSW" },
     { "repo": "bbyars/mountebank", "npm": "mountebank", "isNpmCoreArtifact": true },

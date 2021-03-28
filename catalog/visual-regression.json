@@ -1,5 +1,5 @@
 {
-  "name": "Visual Regression",
+  "name": "JavaScript Visual Regression Testing Tools",
   "items": [
     { "repo": "garris/backstopjs", "npm": "backstopjs", "isNpmCoreArtifact": true, "alias": "BackstopJS" },
     { "repo": "oblador/loki", "npm": "loki", "isNpmCoreArtifact": true },

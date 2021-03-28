@@ -1,5 +1,5 @@
 {
-  "name": "Immutability",
+  "name": "JavaScript Immutability Libraries",
   "items": [
     { "repo": "immerjs/immer", "npm": "immer", "isNpmCoreArtifact": true },
     { "repo": "facebook/immutable-js", "npm": "immutable", "isNpmCoreArtifact": true, "alias": "Immutable.js" }

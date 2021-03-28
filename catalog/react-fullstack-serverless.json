@@ -1,5 +1,5 @@
 {
-  "name": "Fullstack Serverless React Frameworks",
+  "name": "Fullstack Serverless ReactJS Frameworks",
   "items": [
     { "repo": "blitz-js/blitz", "npm": "blitz", "isNpmCoreArtifact": true, "framework": "react" },
     { "repo": "redwoodjs/redwood", "npm": "@redwoodjs/core", "isNpmCoreArtifact": true, "framework": "react", "alias": "RedwoodJS" }

@@ -1,5 +1,5 @@
 {
-  "name": "Node Monitoring",
+  "name": "Node.js Monitoring tools and libraries",
   "items": [
     { "repo": "siimon/prom-client", "npm": "prom-client", "isNpmCoreArtifact": true, "alias": "Prometheus client" },
     { "repo": "RafalWilinski/express-status-monitor", "npm": "express-status-monitor", "isNpmCoreArtifact": true },

@@ -1,5 +1,5 @@
 {
-  "name": "Static Types Checking",
+  "name": "JavaScript Static Types Checking Tools",
   "items": [
     { "repo": "Microsoft/TypeScript", "npm": "typescript", "isNpmCoreArtifact": true },
     { "repo": "facebook/flow", "npm": "flow-bin", "isNpmCoreArtifact": true, "alias": "Flow" }

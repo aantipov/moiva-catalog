@@ -1,5 +1,5 @@
 {
-  "name": "CSS-IN-JS",
+  "name": "CSS-in-JS Libraries",
   "items": [
     { "repo": "vercel/styled-jsx", "npm": "styled-jsx", "isNpmCoreArtifact": true, "framework": "react" },
     { "repo": "styled-components/styled-components", "npm": "styled-components", "isNpmCoreArtifact": true, "framework": "react" },

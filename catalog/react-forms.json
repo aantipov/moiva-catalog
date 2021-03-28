@@ -1,5 +1,5 @@
 {
-  "name": "React Forms",
+  "name": "ReactJS Form Libraries",
   "items": [
     { "repo": "formium/formik", "npm": "formik", "isNpmCoreArtifact": true },
     { "repo": "react-hook-form/react-hook-form", "npm": "react-hook-form", "isNpmCoreArtifact": true, "alias": "React Hook Form" },

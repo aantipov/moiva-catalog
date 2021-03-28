@@ -1,5 +1,5 @@
 {
-  "name": "Select Box",
+  "name": "ReactJS Select/Autocomplete Components",
   "items": [
     { "repo": "downshift-js/downshift", "npm": "downshift", "isNpmCoreArtifact": true, "framework": "react" },
     { "repo": "JedWatson/react-select", "npm": "react-select", "isNpmCoreArtifact": true, "framework": "react", "alias": "React Select" },

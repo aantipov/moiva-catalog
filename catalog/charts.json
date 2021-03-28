@@ -1,5 +1,5 @@
 {
-  "name": "Charts",
+  "name": "JavaScript Charting Libraries",
   "items": [
     { "repo": "chartjs/Chart.js", "npm": "chart.js", "isNpmCoreArtifact": true },
     { "repo": "d3/d3", "npm": "d3", "isNpmCoreArtifact": true },

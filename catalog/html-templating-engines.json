@@ -1,5 +1,5 @@
 {
-  "name": "HTML Templating Engines",
+  "name": "JavaScript Template Engines",
   "items": [
     { "repo": "mde/ejs", "npm": "ejs", "isNpmCoreArtifact": true },
     { "repo": "handlebars-lang/handlebars.js", "npm": "handlebars", "isNpmCoreArtifact": true },

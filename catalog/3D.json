@@ -1,5 +1,5 @@
 {
-  "name": "3D",
+  "name": "JavaScript 3D Libraries",
   "items": [
     { "repo": "BabylonJS/Babylon.js", "npm": "babylonjs", "isNpmCoreArtifact": true, "alias": "Babylon.js" },
     { "repo": "mrdoob/three.js", "npm": "three", "isNpmCoreArtifact": true, "alias": "Three.js" }

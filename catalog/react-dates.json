@@ -1,5 +1,5 @@
 {
-  "name": "React Dates",
+  "name": "ReactJS Datepickers",
   "items": [
     { "repo": "Hacker0x01/react-datepicker", "npm": "react-datepicker", "isNpmCoreArtifact": true },
     { "repo": "wojtekmaj/react-date-picker", "npm": "react-date-picker", "isNpmCoreArtifact": true },

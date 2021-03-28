@@ -1,5 +1,5 @@
 {
-  "name": "AWS Lambda frameworks",
+  "name": "AWS Lambda Frameworks",
   "items": [
     { "repo": "middyjs/middy", "npm": "@middy/core", "isNpmCoreArtifact": true, "alias": "Middy" },
     { "repo": "laconiajs/laconia", "npm": "@laconia/core", "isNpmCoreArtifact": true, "alias": "Laconia" },

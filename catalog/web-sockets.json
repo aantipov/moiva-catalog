@@ -1,5 +1,5 @@
 {
-  "name": "Web Sockets",
+  "name": "Web Sockets for JavaScript",
   "items": [
     { "repo": "socketio/socket.io", "npm": "socket.io", "isNpmCoreArtifact": true },
     { "repo": "websockets/ws", "npm": "ws", "isNpmCoreArtifact": true }

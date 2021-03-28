@@ -1,5 +1,5 @@
 {
-  "name": "State Management",
+  "name": "JavaScript State Management Libraries",
   "items": [
     { "repo": "reduxjs/redux", "npm": "redux", "isNpmCoreArtifact": true },
     { "repo": "mobxjs/mobx", "npm": "mobx", "isNpmCoreArtifact": true, "alias": "MobX" },

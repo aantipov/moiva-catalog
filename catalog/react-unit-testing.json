@@ -1,5 +1,5 @@
 {
-  "name": "React Unit Testing",
+  "name": "ReactJS Unit-Testing Libraries",
   "items": [
     { "repo": "enzymejs/enzyme", "npm": "enzyme", "isNpmCoreArtifact": true },
     { "repo": "testing-library/react-testing-library", "npm": "@testing-library/react", "isNpmCoreArtifact": true, "alias": "React Testing Library" }

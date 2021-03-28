@@ -1,5 +1,5 @@
 {
-  "name": "GraphQL clients",
+  "name": "GraphQL Client Libraries",
   "items": [
     { "repo": "facebook/relay", "npm": "relay-runtime", "isNpmCoreArtifact": true, "framework": "react", "alias": "Relay" },
     { "repo": "apollographql/apollo-client", "npm": "@apollo/client", "isNpmCoreArtifact": true, "framework": "react", "alias": "Apollo Client" },
