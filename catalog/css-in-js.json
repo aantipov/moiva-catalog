@@ -6,7 +6,10 @@
     { "repo": "formidablelabs/radium", "npm": "radium", "isNpmCoreArtifact": true, "framework": "react" },
     { "repo": "callstack/linaria", "npm": "@linaria/core", "isNpmCoreArtifact": true, "framework": "react", "alias": "Linaria" },
     { "repo": "cssinjs/jss", "npm": "jss", "isNpmCoreArtifact": true, "alias": "JSS" },
+    { "repo": "emotion-js/emotion", "npm": "@emotion/css", "isNpmCoreArtifact": true, "alias": "Emotion" },
     { "repo": "Khan/aphrodite", "npm": "aphrodite", "isNpmCoreArtifact": true },
-    { "repo": "emotion-js/emotion", "npm": "@emotion/css", "isNpmCoreArtifact": true, "alias": "Emotion" }
+    { "repo": "modulz/stitches", "npm": "@stitches/core", "isNpmCoreArtifact": true },
+    { "repo": "4Catalyzer/astroturf", "npm": "astroturf", "isNpmCoreArtifact": true },
+    { "repo": "robinweser/fela", "npm": "fela", "isNpmCoreArtifact": true }
   ]
 }

@@ -6,6 +6,7 @@
     { "repo": "Akryum/vue-apollo", "npm": "vue-apollo", "isNpmCoreArtifact": true, "framework": "vue", "alias": "Vue Apollo" },
     { "repo": "timhall/svelte-apollo", "npm": "svelte-apollo", "isNpmCoreArtifact": true, "framework": "svelte" },
     { "repo": "ember-graphql/ember-apollo-client", "npm": "ember-apollo-client", "isNpmCoreArtifact": true, "framework": "ember" },
-    { "repo": "kamilkisiela/apollo-angular", "npm": "apollo-angular", "isNpmCoreArtifact": true, "framework": "angular", "alias": "Apollo Angular" }
+    { "repo": "kamilkisiela/apollo-angular", "npm": "apollo-angular", "isNpmCoreArtifact": true, "framework": "angular", "alias": "Apollo Angular" },
+    { "repo": "FormidableLabs/urql", "npm": "@urql/core", "isNpmCoreArtifact": true, "alias": "urql" }
   ]
 }

@@ -1,0 +1,12 @@
+{
+  "name": "UI Frameworks for building Mobile Apps (Desktop and Web)",
+  "items": [
+    { "repo": "ionic-team/ionic-framework", "npm": "@ionic/core", "isNpmCoreArtifact": true, "alias": "Ionic Framework" },
+    { "repo": "flutter/flutter" },
+    { "repo": "facebook/react-native", "npm": "react-native", "isNpmCoreArtifact": true, "framework": "react" },
+    { "repo": "NativeScript/NativeScript", "npm": "@nativescript/core", "isNpmCoreArtifact": true },
+    { "repo": "framework7io/framework7", "npm": "framework7", "isNpmCoreArtifact": true },
+    { "repo": "OnsenUI/OnsenUI", "npm": "onsenui", "isNpmCoreArtifact": true },
+    { "repo": "apache/incubator-weex" }
+  ]
+}

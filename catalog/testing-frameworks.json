@@ -1,0 +1,11 @@
+{
+  "name": "JavaScript Testing Frameworks",
+  "items": [
+    { "repo": "facebook/jest", "npm": "jest", "isNpmCoreArtifact": true },
+    { "repo": "avajs/ava", "npm": "ava", "isNpmCoreArtifact": true },
+    { "repo": "mochajs/mocha", "npm": "mocha", "isNpmCoreArtifact": true },
+    { "repo": "jasmine/jasmine", "npm": "jasmine", "isNpmCoreArtifact": true },
+    { "repo": "substack/tape", "npm": "tape", "isNpmCoreArtifact": true },
+    { "repo": "qunitjs/qunit", "npm": "qunit", "isNpmCoreArtifact": true }
+  ]
+}
