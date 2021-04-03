@@ -5,6 +5,15 @@
     { "repo": "mobxjs/mobx", "npm": "mobx", "isNpmCoreArtifact": true, "alias": "MobX" },
     { "repo": "reactivex/rxjs", "npm": "rxjs", "isNpmCoreArtifact": true, "alias": "RxJS" },
     { "repo": "facebookexperimental/recoil", "npm": "recoil", "isNpmCoreArtifact": true },
-    { "repo": "vuejs/vuex", "npm": "vuex", "isNpmCoreArtifact": true, "framework": "vue" }
+    { "repo": "davidkpiano/xstate", "npm": "xstate", "isNpmCoreArtifact": true },
+    { "repo": "vuejs/vuex", "npm": "vuex", "isNpmCoreArtifact": true, "framework": "vue" },
+    { "repo": "ngrx/platform", "npm": "@ngrx/store", "isNpmCoreArtifact": true, "framework": "angular", "alias": "NgRx" },
+    { "repo": "tannerlinsley/react-query", "npm": "react-query", "isNpmCoreArtifact": true, "framework": "react", "alias": "React Query" },
+    { "repo": "pmndrs/zustand", "npm": "zustand", "isNpmCoreArtifact": true, "framework": "react" },
+    { "repo": "datorama/akita", "npm": "@datorama/akita", "isNpmCoreArtifact": true },
+    { "repo": "ngxs/store", "npm": "@ngxs/store", "isNpmCoreArtifact": true, "framework": "angular", "alias": "NGXS" },
+    { "repo": "effector/effector", "npm": "effector", "isNpmCoreArtifact": true },
+    { "repo": "vercel/swr", "npm": "swr", "isNpmCoreArtifact": true, "framework": "react", "alias": "SWR" },
+    { "repo": "cerebral/overmind", "npm": "overmind", "isNpmCoreArtifact": true }
   ]
 }
