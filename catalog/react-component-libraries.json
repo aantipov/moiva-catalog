@@ -4,7 +4,6 @@
     { "repo": "mui-org/material-ui", "npm": "@material-ui/core", "isNpmCoreArtifact": true, "alias": "Material-UI" },
     { "repo": "ant-design/ant-design", "npm": "antd", "isNpmCoreArtifact": true, "alias": "Ant Design" },
     { "repo": "react-bootstrap/react-bootstrap", "npm": "react-bootstrap", "isNpmCoreArtifact": true, "alias": "React Bootstrap" },
-    { "repo": "Semantic-Org/Semantic-UI", "npm": "semantic-ui", "isNpmCoreArtifact": true, "alias": "Semantic UI" },
     { "repo": "chakra-ui/chakra-ui", "npm": "@chakra-ui/react", "isNpmCoreArtifact": true, "alias": "Chakra UI" },
     { "repo": "reactstrap/reactstrap", "npm": "reactstrap", "isNpmCoreArtifact": true },
     { "repo": "segmentio/evergreen", "npm": "evergreen-ui", "isNpmCoreArtifact": true, "alias": "Evergreen" }
