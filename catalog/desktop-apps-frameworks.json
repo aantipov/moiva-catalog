@@ -1,11 +1,11 @@
 {
   "name": "JavaScript frameworks for Desktop Applications",
   "items": [
-    { "repo": "electron/electron", "npm": "electron", "isNpmCoreArtifact": false },
+    { "repo": "electron/electron", "npm": "electron", "isNpmCoreArtifact": true },
     { "repo": "tauri-apps/tauri" },
     { "repo": "neutralinojs/neutralinojs" },
     { "repo": "nwjs/nw.js" },
-    { "repo": "nodegui/nodegui", "npm": "@nodegui/nodegui", "isNpmCoreArtifact": false },
+    { "repo": "nodegui/nodegui", "npm": "@nodegui/nodegui", "isNpmCoreArtifact": true },
     { "repo": "nodegui/vue-nodegui", "framework": "vue" },
     { "repo": "nodegui/react-nodegui", "framework": "react" },
     { "repo": "nodegui/svelte-nodegui", "framework": "svelte" }

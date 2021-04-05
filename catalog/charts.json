@@ -7,6 +7,7 @@
     { "repo": "highcharts/highcharts", "npm": "highcharts", "isNpmCoreArtifact": true },
     { "repo": "recharts/recharts", "npm": "recharts", "isNpmCoreArtifact": true, "alias": "Apache ECharts" },
     { "repo": "apache/echarts", "npm": "echarts", "isNpmCoreArtifact": true },
+    { "repo": "naver/billboard.js", "npm": "billboard.js", "isNpmCoreArtifact": true },
     { "repo": "amcharts/amcharts4", "npm": "@amcharts/amcharts4", "isNpmCoreArtifact": true, "alias": "amCharts 4" },
     { "repo": "apexcharts/apexcharts.js", "npm": "apexcharts", "isNpmCoreArtifact": true },
     { "repo": "gionkunz/chartist-js", "npm": "chartist", "isNpmCoreArtifact": true, "alias": "Chartist.js" },

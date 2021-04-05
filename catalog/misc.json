@@ -338,7 +338,6 @@
     { "repo": "netdata/netdata" },
     { "repo": "bumptech/glide" },
     { "repo": "moby/moby" },
-    { "repo": "ionic-team/ionic-framework" },
     { "repo": "isocpp/CppCoreGuidelines" },
     { "repo": "exacity/deeplearningbook-chinese" },
     { "repo": "RocketChat/Rocket.Chat" },
