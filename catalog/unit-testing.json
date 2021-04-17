@@ -1,0 +1,13 @@
+{
+  "name": "Unit-Testing Libraries",
+  "skipSitemap": true,
+  "items": [
+    { "repo": "testing-library/dom-testing-library", "npm": "@testing-library/dom", "isNpmCoreArtifact": true, "alias": "DOM Testing Library" },
+    { "repo": "testing-library/jest-dom", "npm": "@testing-library/jest-dom", "isNpmCoreArtifact": true, "alias": "jest-dom" },
+    { "repo": "testing-library/svelte-testing-library", "npm": "@testing-library/svelte", "isNpmCoreArtifact": true, "alias": "Svelte Testing Library" },
+    { "repo": "testing-library/angular-testing-library", "npm": "@testing-library/angular", "isNpmCoreArtifact": true, "alias": "Angular Testing Library" },
+    { "repo": "chaijs/chai", "npm": "chai", "isNpmCoreArtifact": true },
+    { "repo": "sinonjs/sinon", "npm": "sinon", "isNpmCoreArtifact": true, "alias": "Sinon.js" },
+    { "repo": "karma-runner/karma", "npm": "karma", "isNpmCoreArtifact": true }
+  ]
+}

@@ -7,6 +7,7 @@
     { "repo": "snowpackjs/snowpack", "npm": "snowpack", "isNpmCoreArtifact": true },
     { "repo": "vitejs/vite", "npm": "vite", "isNpmCoreArtifact": true },
     { "repo": "evanw/esbuild", "npm": "esbuild", "isNpmCoreArtifact": true },
+    { "repo": "preactjs/wmr", "npm": "wmr", "isNpmCoreArtifact": true },
     { "repo": "browserify/browserify", "npm": "browserify", "isNpmCoreArtifact": true },
     { "repo": "developit/microbundle", "npm": "microbundle", "isNpmCoreArtifact": true }
   ]
