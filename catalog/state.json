@@ -10,6 +10,7 @@
     { "repo": "ngrx/platform", "npm": "@ngrx/store", "isNpmCoreArtifact": true, "framework": "angular", "alias": "NgRx" },
     { "repo": "tannerlinsley/react-query", "npm": "react-query", "isNpmCoreArtifact": true, "framework": "react", "alias": "React Query" },
     { "repo": "pmndrs/zustand", "npm": "zustand", "isNpmCoreArtifact": true, "framework": "react" },
+    { "repo": "pmndrs/jotai", "npm": "jotai", "isNpmCoreArtifact": true, "framework": "react" },
     { "repo": "datorama/akita", "npm": "@datorama/akita", "isNpmCoreArtifact": true },
     { "repo": "ngxs/store", "npm": "@ngxs/store", "isNpmCoreArtifact": true, "framework": "angular", "alias": "NGXS" },
     { "repo": "mobxjs/mobx-state-tree", "npm": "mobx-state-tree", "isNpmCoreArtifact": true, "alias": "mobx-state-tree" },
