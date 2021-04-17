@@ -1,0 +1,7 @@
+{
+  "name": "VueJS Unit-Testing Libraries",
+  "items": [
+    { "repo": "vuejs/vue-test-utils", "npm": "@vue/test-utils", "isNpmCoreArtifact": true, "alias": "Vue Test Utils" },
+    { "repo": "testing-library/vue-testing-library", "npm": "@testing-library/vue", "isNpmCoreArtifact": true, "alias": "Vue Testing Library" }
+  ]
+}
