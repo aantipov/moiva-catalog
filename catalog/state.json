@@ -3,8 +3,8 @@
   "items": [
     { "repo": "reduxjs/redux", "npm": "redux", "isNpmCoreArtifact": true },
     { "repo": "mobxjs/mobx", "npm": "mobx", "isNpmCoreArtifact": true, "alias": "MobX" },
-    { "repo": "reactivex/rxjs", "npm": "rxjs", "isNpmCoreArtifact": true, "alias": "RxJS" },
-    { "repo": "facebookexperimental/recoil", "npm": "recoil", "isNpmCoreArtifact": true },
+    { "repo": "ReactiveX/rxjs", "npm": "rxjs", "isNpmCoreArtifact": true, "alias": "RxJS" },
+    { "repo": "facebookexperimental/Recoil", "npm": "recoil", "isNpmCoreArtifact": true },
     { "repo": "davidkpiano/xstate", "npm": "xstate", "isNpmCoreArtifact": true },
     { "repo": "vuejs/vuex", "npm": "vuex", "isNpmCoreArtifact": true, "framework": "vue" },
     { "repo": "ngrx/platform", "npm": "@ngrx/store", "isNpmCoreArtifact": true, "framework": "angular", "alias": "NgRx" },

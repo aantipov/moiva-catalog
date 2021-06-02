@@ -1,7 +1,7 @@
 {
   "name": "Node.js Process Managers",
   "items": [
-    { "repo": "foreverjs/forever", "npm": "forever", "isNpmCoreArtifact": true },
+    { "repo": "foreversd/forever", "npm": "forever", "isNpmCoreArtifact": true },
     { "repo": "Unitech/pm2", "npm": "pm2", "isNpmCoreArtifact": true },
     { "repo": "remy/nodemon", "npm": "nodemon", "isNpmCoreArtifact": true }
   ]

@@ -2,6 +2,6 @@
   "name": "Web Components UI Libraries",
   "items": [
     { "repo": "ionic-team/stencil", "npm": "@stencil/core", "isNpmCoreArtifact": true, "alias": "Stencil" },
-    { "repo": "Polymer/lit-element", "npm": "lit-element", "isNpmCoreArtifact": true, "alias": "LitElement" }
+    { "repo": "lit/lit-element", "npm": "lit-element", "isNpmCoreArtifact": true, "alias": "LitElement" }
   ]
 }

@@ -3,7 +3,7 @@
   "items": [
     { "repo": "siimon/prom-client", "npm": "prom-client", "isNpmCoreArtifact": true, "alias": "Prometheus client" },
     { "repo": "RafalWilinski/express-status-monitor", "npm": "express-status-monitor", "isNpmCoreArtifact": true },
-    { "repo": "nearform/node-clinic", "npm": "clinic", "isNpmCoreArtifact": true, "alias": "Clinic.js" },
+    { "repo": "clinicjs/node-clinic", "npm": "clinic", "isNpmCoreArtifact": true, "alias": "Clinic.js" },
     { "repo": "RuntimeTools/appmetrics-dash", "npm": "appmetrics-dash", "isNpmCoreArtifact": true }
   ]
 }

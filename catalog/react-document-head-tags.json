@@ -2,6 +2,6 @@
   "name": "ReactJS Document Head Managers",
   "items": [
     { "repo": "nfl/react-helmet", "npm": "react-helmet", "isNpmCoreArtifact": true, "alias": "React Helmet" },
-    { "repo": "NYTimes/react-helmet-async", "npm": "react-helmet-async", "isNpmCoreArtifact": true }
+    { "repo": "staylor/react-helmet-async", "npm": "react-helmet-async", "isNpmCoreArtifact": true }
   ]
 }

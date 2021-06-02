@@ -14,7 +14,7 @@
     { "repo": "angular/angular.js", "npm": "angular", "isNpmCoreArtifact": true, "alias": "AngularJS" },
     { "repo": "marionettejs/backbone.marionette", "npm": "backbone.marionette", "isNpmCoreArtifact": true },
     { "repo": "knockout/knockout", "npm": "knockout", "isNpmCoreArtifact": true },
-    { "repo": "ryansolid/solid", "npm": "solid-js", "isNpmCoreArtifact": true, "alias": "Solid" },
+    { "repo": "solidjs/solid", "npm": "solid-js", "isNpmCoreArtifact": true, "alias": "Solid" },
     { "repo": "MithrilJS/mithril.js", "npm": "mithril", "isNpmCoreArtifact": true },
     { "repo": "aurelia/framework", "npm": "aurelia-framework", "isNpmCoreArtifact": true, "alias": "Aurelia" },
     { "repo": "hotwired/stimulus", "npm": "stimulus", "isNpmCoreArtifact": true },

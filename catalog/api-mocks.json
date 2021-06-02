@@ -4,7 +4,7 @@
     { "repo": "mswjs/msw", "npm": "msw", "isNpmCoreArtifact": true, "alias": "MSW" },
     { "repo": "bbyars/mountebank", "npm": "mountebank", "isNpmCoreArtifact": true },
     { "repo": "typicode/json-server", "npm": "json-server", "isNpmCoreArtifact": true, "alias": "JSON Server" },
-    { "repo": "Hagith/wiremock-standalone", "npm": "wiremock-standalone", "isNpmCoreArtifact": true, "alias": "WireMock" },
+    { "repo": "modernweb-pl/wiremock-standalone", "npm": "wiremock-standalone", "isNpmCoreArtifact": true, "alias": "WireMock" },
     { "repo": "miragejs/miragejs", "npm": "miragejs", "isNpmCoreArtifact": true, "alias": "Mirage" }
   ]
 }

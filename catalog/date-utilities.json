@@ -8,6 +8,6 @@
     { "repo": "taylorhakes/fecha", "npm": "fecha", "isNpmCoreArtifact": true },
     { "repo": "vercel/ms", "npm": "ms", "isNpmCoreArtifact": true },
     { "repo": "hustcc/timeago.js", "npm": "timeago.js", "isNpmCoreArtifact": true },
-    { "repo": "MatthewMueller/date", "npm": "date.js", "isNpmCoreArtifact": true }
+    { "repo": "matthewmueller/date", "npm": "date.js", "isNpmCoreArtifact": true }
   ]
 }

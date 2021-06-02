@@ -6,6 +6,7 @@
     { "repo": "koajs/koa", "npm": "koa", "isNpmCoreArtifact": true },
     { "repo": "fastify/fastify", "npm": "fastify", "isNpmCoreArtifact": true },
     { "repo": "hapijs/hapi", "npm": "@hapi/hapi", "isNpmCoreArtifact": true, "alias": "Hapi" },
+    { "repo": "adonisjs/core", "npm": "@adonisjs/core", "isNpmCoreArtifact": true, "alias": "AdonisJS" },
     { "repo": "balderdashy/sails", "npm": "sails", "isNpmCoreArtifact": true },
     { "repo": "restify/node-restify", "npm": "restify", "isNpmCoreArtifact": true, "alias": "Restify" },
     { "repo": "feathersjs/feathers", "npm": "@feathersjs/feathers", "isNpmCoreArtifact": true, "alias": "Feathers" },

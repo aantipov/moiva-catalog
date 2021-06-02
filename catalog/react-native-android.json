@@ -2,7 +2,7 @@
   "name": "React Native Libraries for Android",
   "items": [
     { "repo": "facebook/hermes", "npm": "hermes-engine", "isNpmCoreArtifact": true, "alias": "Hermes" },
-    { "repo": "react-community/jsc-android-buildscripts", "npm": "jsc-android", "isNpmCoreArtifact": true },
+    { "repo": "react-native-community/jsc-android-buildscripts", "npm": "jsc-android", "isNpmCoreArtifact": true },
     { "repo": "Kudo/react-native-v8", "npm": "react-native-v8", "isNpmCoreArtifact": true }
   ]
 }

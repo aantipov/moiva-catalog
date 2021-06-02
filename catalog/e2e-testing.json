@@ -3,7 +3,7 @@
   "items": [
     { "repo": "puppeteer/puppeteer", "npm": "puppeteer", "isNpmCoreArtifact": true },
     { "repo": "cypress-io/cypress", "npm": "cypress", "isNpmCoreArtifact": true },
-    { "repo": "Microsoft/playwright", "npm": "playwright", "isNpmCoreArtifact": true },
+    { "repo": "microsoft/playwright", "npm": "playwright", "isNpmCoreArtifact": true },
     { "repo": "SeleniumHQ/selenium", "npm": "selenium-webdriver", "isNpmCoreArtifact": true },
     { "repo": "webdriverio/webdriverio", "npm": "webdriverio", "isNpmCoreArtifact": true },
     { "repo": "DevExpress/testcafe", "npm": "testcafe", "isNpmCoreArtifact": true },

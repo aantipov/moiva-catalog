@@ -3,7 +3,7 @@
   "items": [
     { "repo": "vercel/styled-jsx", "npm": "styled-jsx", "isNpmCoreArtifact": true, "framework": "react" },
     { "repo": "styled-components/styled-components", "npm": "styled-components", "isNpmCoreArtifact": true, "framework": "react" },
-    { "repo": "formidablelabs/radium", "npm": "radium", "isNpmCoreArtifact": true, "framework": "react" },
+    { "repo": "FormidableLabs/radium", "npm": "radium", "isNpmCoreArtifact": true, "framework": "react" },
     { "repo": "callstack/linaria", "npm": "@linaria/core", "isNpmCoreArtifact": true, "framework": "react", "alias": "Linaria" },
     { "repo": "cssinjs/jss", "npm": "jss", "isNpmCoreArtifact": true, "alias": "JSS" },
     { "repo": "emotion-js/emotion", "npm": "@emotion/css", "isNpmCoreArtifact": true, "alias": "Emotion" },
