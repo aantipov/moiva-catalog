@@ -2,7 +2,6 @@
   "name": "React Component Libraries",
   "items": [
     { "repo": "mui-org/material-ui", "npm": "@material-ui/core", "isNpmCoreArtifact": true, "alias": "Material-UI" },
-    { "exclude": true, "repo": "ant-design/ant-design", "npm": "antd", "isNpmCoreArtifact": true, "alias": "Ant Design" },
     { "repo": "react-bootstrap/react-bootstrap", "npm": "react-bootstrap", "isNpmCoreArtifact": true, "alias": "React Bootstrap" },
     { "repo": "chakra-ui/chakra-ui", "npm": "@chakra-ui/react", "isNpmCoreArtifact": true, "alias": "Chakra UI" },
     { "repo": "reactstrap/reactstrap", "npm": "reactstrap", "isNpmCoreArtifact": true },
