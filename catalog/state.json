@@ -19,6 +19,7 @@
     { "repo": "storeon/storeon", "npm": "storeon", "isNpmCoreArtifact": true },
     { "repo": "diegohaz/constate", "npm": "constate", "isNpmCoreArtifact": true, "framework": "react" },
     { "repo": "vercel/swr", "npm": "swr", "isNpmCoreArtifact": true, "framework": "react", "alias": "SWR" },
-    { "repo": "cerebral/overmind", "npm": "overmind", "isNpmCoreArtifact": true }
+    { "repo": "cerebral/overmind", "npm": "overmind", "isNpmCoreArtifact": true },
+    { "repo": "ai/nanostores", "npm": "nanostores", "isNpmCoreArtifact": true, "alias": "Nano Stores" }
   ]
 }
