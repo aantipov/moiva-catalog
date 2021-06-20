@@ -250,7 +250,6 @@
     { "repo": "javve/list.js", "npm": "list.js", "isNpmCoreArtifact": true },
     { "repo": "mdx-js/mdx", "npm": "@mdx-js/mdx", "isNpmCoreArtifact": true, "alias": "MDX" },
     { "repo": "antonmedv/fx", "npm": "fx", "isNpmCoreArtifact": true },
-    { "repo": "microsoft/fluentui", "npm": "@fluentui/react", "isNpmCoreArtifact": true, "alias": "Fluent UI Web/React" },
     { "repo": "nock/nock", "npm": "nock", "isNpmCoreArtifact": true },
     { "repo": "howdyai/botkit", "npm": "botkit", "isNpmCoreArtifact": true },
     { "repo": "electron-userland/electron-builder", "npm": "electron-builder", "isNpmCoreArtifact": true },
@@ -889,7 +888,6 @@
     { "repo": "phobal/ivideo" },
     { "repo": "dimsemenov/Magnific-Popup", "npm": "magnific-popup", "isNpmCoreArtifact": true },
     { "repo": "graphql/graphiql" },
-    { "repo": "Semantic-Org/Semantic-UI-React", "npm": "semantic-ui-react", "isNpmCoreArtifact": true },
     { "repo": "Ramotion/folding-cell" },
     { "repo": "koel/koel" },
     { "repo": "android/uamp" },
@@ -1325,6 +1323,7 @@
     { "repo": "reasonml/reason", "alias": "Reason" },
     { "repo": "rome/tools", "npm": "rome", "isNpmCoreArtifact": true, "alias": "Rome" },
     { "repo": "styled-system/styled-system", "npm": "styled-system", "isNpmCoreArtifact": true, "alias": "Styled System" },
-    { "repo": "styletron/styletron", "npm": "styletron-react", "isNpmCoreArtifact": false }
+    { "repo": "styletron/styletron", "npm": "styletron-react", "isNpmCoreArtifact": false },
+    { "repo": "microsoft/fluentui", "npm": "@fluentui/react-northstar", "isNpmCoreArtifact": false, "alias": "Fluent UI React Northstar" }
   ]
 }
