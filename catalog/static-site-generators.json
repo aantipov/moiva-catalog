@@ -12,6 +12,7 @@
     { "repo": "docsifyjs/docsify", "npm": "docsify", "isNpmCoreArtifact": true },
     { "repo": "umijs/umi", "npm": "umi", "isNpmCoreArtifact": true, "framework": "react", "alias": "UmiJS" },
     { "repo": "react-static/react-static", "npm": "react-static", "isNpmCoreArtifact": true, "framework": "react", "alias": "React Static" },
-    { "repo": "gridsome/gridsome", "npm": "gridsome", "isNpmCoreArtifact": true, "framework": "vue" }
+    { "repo": "gridsome/gridsome", "npm": "gridsome", "isNpmCoreArtifact": true, "framework": "vue" },
+    { "repo": "snowpackjs/astro", "npm": "astro", "isNpmCoreArtifact": true }
   ]
 }

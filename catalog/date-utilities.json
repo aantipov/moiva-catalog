@@ -4,7 +4,7 @@
     { "repo": "date-fns/date-fns", "npm": "date-fns", "isNpmCoreArtifact": true },
     { "repo": "iamkun/dayjs", "npm": "dayjs", "isNpmCoreArtifact": true },
     { "repo": "moment/luxon", "npm": "luxon", "isNpmCoreArtifact": true },
-    { "repo": "moment/moment", "npm": "moment", "isNpmCoreArtifact": true, "isLegacy": true },
+    { "repo": "moment/moment", "npm": "moment", "isNpmCoreArtifact": true },
     { "repo": "taylorhakes/fecha", "npm": "fecha", "isNpmCoreArtifact": true },
     { "repo": "vercel/ms", "npm": "ms", "isNpmCoreArtifact": true },
     { "repo": "hustcc/timeago.js", "npm": "timeago.js", "isNpmCoreArtifact": true },

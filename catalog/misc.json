@@ -29,7 +29,7 @@
     { "repo": "uber/react-vis", "npm": "react-vis", "isNpmCoreArtifact": true },
     { "repo": "sanctuary-js/sanctuary", "npm": "sanctuary", "isNpmCoreArtifact": true },
     { "repo": "sass/dart-sass", "npm": "sass", "isNpmCoreArtifact": true },
-    { "repo": "sass/node-sass", "isLegacy": true },
+    { "repo": "sass/node-sass" },
     { "repo": "visionmedia/superagent", "npm": "superagent", "isNpmCoreArtifact": true },
     { "repo": "kriasoft/universal-router", "npm": "universal-router", "isNpmCoreArtifact": true },
     { "repo": "uuidjs/uuid", "npm": "uuid", "isNpmCoreArtifact": true },
