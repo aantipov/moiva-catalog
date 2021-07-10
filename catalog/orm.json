@@ -1,0 +1,15 @@
+{
+  "name": "JavaScript/Node.js ORMs",
+  "items": [
+    { "repo": "knex/knex", "npm": "knex", "isNpmCoreArtifact": true, "alias": "knex.js" },
+    { "repo": "sequelize/sequelize", "npm": "sequelize", "isNpmCoreArtifact": true, "alias": "Sequelize" },
+    { "repo": "bookshelf/bookshelf", "npm": "bookshelf", "isNpmCoreArtifact": true, "alias": "bookshelf.js" },
+    { "repo": "balderdashy/waterline", "npm": "waterline", "isNpmCoreArtifact": true, "alias": "Waterline" },
+    { "repo": "vincit/objection.js", "npm": "objection", "isNpmCoreArtifact": true, "alias": "Objection.js" },
+    { "repo": "Automattic/mongoose", "npm": "mongoose", "isNpmCoreArtifact": true, "alias": "Mongoose" },
+    { "repo": "typegoose/typegoose", "npm": "@typegoose/typegoose", "isNpmCoreArtifact": true, "alias": "Typegoose" },
+    { "repo": "typeorm/typeorm", "npm": "typeorm", "isNpmCoreArtifact": true, "alias": "TypeORM" },
+    { "repo": "mikro-orm/mikro-orm", "npm": "@mikro-orm/core", "isNpmCoreArtifact": true, "alias": "MikroORM" },
+    { "repo": "prisma/prisma", "npm": "@prisma/client", "isNpmCoreArtifact": true, "alias": "Prisma" }
+  ]
+}
