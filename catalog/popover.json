@@ -1,0 +1,14 @@
+{
+  "name": "Tooltips, Popovers, Modals",
+  "items": [
+    { "repo": "popperjs/popper-core", "npm": "@popperjs/core", "isNpmCoreArtifact": true, "alias": "Popper" },
+    { "repo": "chinchang/hint.css", "npm": "hint.css", "isNpmCoreArtifact": true, "alias": "Hint.css" },
+    { "repo": "kazzkiq/balloon.css", "npm": "balloon-css", "isNpmCoreArtifact": true, "alias": "Balloon.css" },
+    { "repo": "calebjacob/tooltipster", "npm": "tooltipster", "isNpmCoreArtifact": true, "alias": "Tooltipster" },
+    { "repo": "react-component/tooltip", "npm": "rc-tooltip", "isNpmCoreArtifact": true, "alias": "rc-tooltip", "framework": "react" },
+    { "repo": "wwayne/react-tooltip", "npm": "react-tooltip", "isNpmCoreArtifact": true, "alias": "react-tooltip", "framework": "react" },
+    { "repo": "popperjs/react-popper", "npm": "react-popper", "isNpmCoreArtifact": true, "alias": "React Popper", "framework": "react" },
+    { "repo": "atomiks/tippyjs-react", "npm": "@tippyjs/react", "isNpmCoreArtifact": true, "alias": "Tippy.js for React", "framework": "react" },
+    { "repo": "atomiks/tippyjs", "npm": "tippy.js", "isNpmCoreArtifact": true, "alias": "Tippy.js" }
+  ]
+}

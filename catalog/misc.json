@@ -123,7 +123,6 @@
     { "repo": "julianshapiro/velocity", "npm": "velocity-animate", "isNpmCoreArtifact": true, "alias": "Velocity" },
     { "repo": "angular/material", "npm": "angular-material", "isNpmCoreArtifact": true, "framework": "angularjs", "alias": "Material for AngularJS" },
     { "repo": "eggjs/egg", "npm": "egg", "isNpmCoreArtifact": true },
-    { "repo": "popperjs/popper-core", "npm": "@popperjs/core", "isNpmCoreArtifact": true, "alias": "Popper" },
     { "repo": "youzan/vant", "npm": "vant", "isNpmCoreArtifact": true, "framework": "vue" },
     { "repo": "mojs/mojs", "npm": "@mojs/core", "isNpmCoreArtifact": true, "alias": "mojs" },
     { "repo": "nosir/cleave.js", "npm": "cleave.js", "isNpmCoreArtifact": true },
